@@ -1,81 +1,91 @@
 ### Hi there, I'm Parvina! 👋
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=550&lines=Entry-Level+DevOps+Engineer;GitHub+Actions+%7C+Jenkins+%7C+Terraform;Docker+%7C+Kubernetes+%7C+AWS+%7C+Azure;DevOps+Diploma+Graduate+(July+2025))
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS&color=blue&style=for-the-badge)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Entry-Level+DevOps+Engineer;Automating+the+Future;Terraform+%7C+Jenkins+%7C+GitHub+Actions;Docker+%7C+Kubernetes+%7C+AWS+%7C+Azure;Fresh+DevOps+Graduate+%E2%9C%A8)
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile+Views+%F0%9F%91%80&color=0e75b6&style=flat-square)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="DevOps Animation"/>
+</div>
 
 ---
 ## 🚀 About Me
-- 🎓 Recent **DevOps Diploma** graduate (July 2025) from **Ziyotech Bootcamp**
-- ☁️ Hands-on experience with **cloud infrastructure** on **AWS** and **Azure**
-- 🔁 Passionate about **automation** using **Terraform**, **Ansible**, and **CI/CD pipelines** with **GitHub Actions & Jenkins**
-- 🐳 Exploring **containerization** with **Docker** and **orchestration** using **Kubernetes**
-- 💻 Skilled in **Bash/Python scripting** and building scalable solutions
-- 💡 Eager to contribute to innovative teams and grow in DevOps engineering
-- 📍 Based in **Farmington, CT** | Authorized to work in the U.S. (Green Card holder)
-- 🌍 Fluent in **English**, **Russian**, and **Uzbek**
+I'm a passionate **Entry-Level DevOps Engineer** ready to bring automation magic to real-world challenges!
+
+- 🎓 **DevOps Diploma Graduate** (July 2025) – Ziyotech Bootcamp
+- ☁️ Hands-on with **AWS**, **Azure**, and modern cloud infrastructure
+- 🤖 Love building **CI/CD pipelines**, **IaC**, and scalable systems
+- 🐳 Diving deep into **Docker**, **Kubernetes**, **Terraform**, and **Ansible**
+- 💻 Scripting enthusiast – **Python** & **Bash**
+- 🌟 Eager to learn, collaborate, and deliver reliable solutions
+- 📍 **Farmington, CT** | U.S. Work Authorized (Green Card)
+- 🗣️ Fluent in **English**, **Russian**, and **Uzbek**
 
 ---
-## 🧰 Tech Stack
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="Terraform" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="Ansible" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="Jenkins" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="Kubernetes" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
-</div>
-
----
-## 📈 GitHub Insights
+## 🛠️ My Tech Arsenal
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" alt="AWS" title="AWS"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" alt="Azure" title="Azure"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="45" alt="Terraform" title="Terraform"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="45" alt="Ansible" title="Ansible"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="45" alt="Jenkins" title="Jenkins"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" title="Docker"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45" alt="Kubernetes" title="Kubernetes"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="45" alt="GitHub Actions" title="GitHub Actions"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" title="Python"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="Bash" title="Bash"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" title="Git"/>
+<img width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" title="Linux"/>
+
 </div>
+
+---
+## 🔥 Featured Projects
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=dracula&hide_border=false" />
+
+| Project | Description | Tech Stack |
+|---------|-----------|------------|
+| 🎮 **Orchestrating Cloud Gaming** | Deployed the classic 2048 game on AWS EKS with full scalability and external access | Kubernetes • AWS EKS • ALB Ingress • Fargate |
+| ⚙️ **Streamlining Deployments** | End-to-end CI/CD for Spring Petclinic app with automated testing and deployment | GitHub Actions • Docker • AWS/Azure |
+| 🛠️ **Building Smart Infrastructure** | Automated cloud setup and configuration management from scratch | Terraform • Jenkins • Ansible • AWS/Azure |
+
 </div>
 
 ---
-## 🧠 Projects You’ll Love
-- ⚙️ **Streamlining Deployments**: Automated CI/CD Pipeline with GitHub Actions & Docker
-- 🛠️ **Building Smart Infrastructure**: Terraform, Jenkins & Ansible Automation
-- 🎮 **Orchestrating Cloud Gaming**: 2048 Game Deployment on AWS EKS
+## 📝 Favorite Quote
+> *"First, solve the problem. Then, write the code."* – John Johnson  
+> *(But automating it with DevOps tools? Even better! 😄)*
 
 ---
-## 📝 Quote I Live By
-> *"The best way to predict the future is to invent it."* – Alan Kay
-
----
-## 📬 Let's Connect
-<div align="left">
-  <a href="https://github.com/your-github-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-  </a>
-</div>
-
----
+## 📬 Let's Connect!
 <div align="center">
-  <b>🚀 Excited to Learn, Build, and Grow in DevOps!</b>
+  <a href="https://github.com/Parvane-gith" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/parvina-djalmamedova-a230a5341" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Parvina.djalmamedova01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrMzoyHdW0gyO8p/giphy.gif" width="200" alt="Keep Building"/>
+  <br/><br/>
+  <b>🚀 Ready to automate, innovate, and grow together!</b>
 </div>

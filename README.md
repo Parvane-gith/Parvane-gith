@@ -2,10 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Entry-Level+DevOps+Engineer;Automating+the+Future;Terraform+%7C+Jenkins+%7C+GitHub+Actions;Docker+%7C+Kubernetes+%7C+AWS+%7C+Azure;Fresh+DevOps+Graduate+%E2%9C%A8)
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile+Views+%F0%9F%91%80&color=0e75b6&style=flat-square)
-
 <div align="center">
-  <img src="https://media.giphy.com/media/Ws9rA0eC1rPJsH9i2C/giphy.gif" width="600" alt="Woman in Tech Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="600" alt="Woman Coding Animation"/>
 </div>
 
 ---
@@ -75,7 +73,7 @@ I'm a passionate **Entry-Level DevOps Engineer** ready to bring automation magic
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/parvina-djalmamedova-a230a5341" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shield s.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:Parvina.djalmamedova01@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -85,7 +83,7 @@ I'm a passionate **Entry-Level DevOps Engineer** ready to bring automation magic
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrMzoyHdW0gyO8p/giphy.gif" width="200" alt="Keep Building"/>
+  <img src="https://miro.medium.com/0*K2WLMTExLyida7OR.gif" width="250" alt="Woman Coding Success Animation"/>
   <br/><br/>
   <b>🚀 Ready to automate, innovate, and grow together!</b>
 </div>

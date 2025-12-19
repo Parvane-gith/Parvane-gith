@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile+Views+%F0%9F%91%80&color=0e75b6&style=flat-square)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="DevOps Animation"/>
+  <img src="https://media.giphy.com/media/Ws9rA0eC1rPJsH9i2C/giphy.gif" width="600" alt="Woman in Tech Animation"/>
 </div>
 
 ---
